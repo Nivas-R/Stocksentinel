@@ -1,0 +1,14 @@
+streamlit
+yfinance
+pandas
+numpy
+requests
+plotly
+pytz
+wordcloud
+vaderSentiment
+matplotlib
+beautifulsoup4
+lxml
+altair
+scikit-learn
